@@ -3,5 +3,5 @@ import requests
 url = "https://www.example.com"  # або будь-який інший URL
 # Виконання GET-запиту до вказаного URL
 response = requests.get(url)
-# Виведення вмісту відповіді на екран
+# Виведення вмісту відповіді на екранq
 print(response.text)
